@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "sBYHiescC2gXJw0HPiZ/rkj4L0ooKuzCFlX2dOYuafegAskaZI2eOdRNsR6XMMyRfn2JUo99XrbzUu0Sd356cw==",
+  "success": true,
+  "projectFilePath": "/mnt/d/dotnet/dotnet-upload-to-s3/dotnet-upload-to-s3.csproj",
+  "expectedPackageFiles": [
+    "/home/dragonh/.nuget/packages/awssdk.core/3.7.13.2/awssdk.core.3.7.13.2.nupkg.sha512",
+    "/home/dragonh/.nuget/packages/awssdk.s3/3.7.9.51/awssdk.s3.3.7.9.51.nupkg.sha512",
+    "/home/dragonh/.nuget/packages/microsoft.extensions.configuration/6.0.1/microsoft.extensions.configuration.6.0.1.nupkg.sha512",
+    "/home/dragonh/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "/home/dragonh/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/home/dragonh/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
